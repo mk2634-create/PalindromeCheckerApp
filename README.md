@@ -105,5 +105,20 @@ Concepts Used:
 - Fast & Slow pointer technique
 - In-place reversal
 
+## Use Case 9: Recursive Palindrome Check
+
+Goal:
+Check palindrome using recursion.
+
+Flow:
+- Recursive call compares start & end characters
+- Base condition exits recursion
+- Display result
+
+Concepts Used:
+- Recursion
+- Base condition
+- Call stack
+
 
 

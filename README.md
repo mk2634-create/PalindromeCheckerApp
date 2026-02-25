@@ -135,6 +135,22 @@ Concepts Used:
 - Regular expressions
 - Two-pointer comparison
 
+## Use Case 12: Strategy Pattern for Palindrome Algorithms
+
+Goal:
+Choose palindrome algorithm dynamically at runtime.
+
+Flow:
+- Define PalindromeStrategy interface
+- Implement StackStrategy and DequeStrategy
+- Inject strategy into context
+- Execute dynamically
+
+Concepts Used:
+- Interface
+- Polymorphism
+- Strategy Pattern
+- Runtime behavior switching
 
 
 

@@ -120,5 +120,21 @@ Concepts Used:
 - Base condition
 - Call stack
 
+## Use Case 10: Case-Insensitive & Space-Ignored Palindrome
+
+Goal:
+Ignore spaces and case while checking a palindrome.
+
+Flow:
+- Normalize the string (remove spaces, punctuation, lowercase)
+- Apply two-pointer palindrome logic
+- Display result
+
+Concepts Used:
+- String preprocessing
+- Regular expressions
+- Two-pointer comparison
+
+
 
 

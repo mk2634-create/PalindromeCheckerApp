@@ -72,4 +72,20 @@ Concepts Used:
 - push & pop
 - Logical comparison
 
+## Use Case 7: Deque-Based Optimized Palindrome Check
+
+Goal:
+Use Deque to compare front and rear characters efficiently.
+
+Flow:
+- Insert characters into deque
+- Remove first & last characters
+- Compare until empty
+- Display result
+
+Concepts Used:
+- Deque (Double Ended Queue)
+- Front & Rear access
+- Optimized data handling
+
 

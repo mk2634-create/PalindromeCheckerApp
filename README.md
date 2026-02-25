@@ -135,23 +135,22 @@ Concepts Used:
 - Regular expressions
 - Two-pointer comparison
 
-## Use Case 11: Object-Oriented Palindrome Service
+## Use Case 12: Strategy Pattern for Palindrome Algorithms
 
 Goal:
-Encapsulate palindrome logic in a class.
+Choose palindrome algorithm dynamically at runtime.
 
 Flow:
-- Create PalindromeChecker class
-- Expose checkPalindrome() method
-- Normalize input and apply logic
-- Display result
+- Define PalindromeStrategy interface
+- Implement StackStrategy and DequeStrategy
+- Inject strategy into context
+- Execute dynamically
 
 Concepts Used:
-- Encapsulation
-- Single Responsibility Principle
-- Internal data handling (Stack / Array)
-
-
+- Interface
+- Polymorphism
+- Strategy Pattern
+- Runtime behavior switching
 
 
 

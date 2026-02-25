@@ -135,6 +135,23 @@ Concepts Used:
 - Regular expressions
 - Two-pointer comparison
 
+## Use Case 11: Object-Oriented Palindrome Service
+
+Goal:
+Encapsulate palindrome logic in a class.
+
+Flow:
+- Create PalindromeChecker class
+- Expose checkPalindrome() method
+- Normalize input and apply logic
+- Display result
+
+Concepts Used:
+- Encapsulation
+- Single Responsibility Principle
+- Internal data handling (Stack / Array)
+
+
 
 
 

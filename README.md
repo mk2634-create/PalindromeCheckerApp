@@ -22,3 +22,20 @@ Concepts Used:
 - String concatenation
 - equals() method
 
+## Use Case 4: Character Array Based Palindrome Check
+
+Goal:
+Convert string to char[] and compare characters using two-pointer technique.
+
+Flow:
+- Convert string to char array
+- Use start and end pointers
+- Compare characters
+- Display result
+
+Concepts Used:
+- char[] array
+- Array indexing
+- Two-pointer technique
+- Efficient comparison without extra string objects
+

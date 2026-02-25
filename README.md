@@ -54,5 +54,22 @@ Concepts Used:
 - Stack (LIFO)
 - push() and pop()
 - Reversal using stack
+## Use Case 6: Queue + Stack Based Palindrome Check
+
+Goal:
+Demonstrate FIFO vs LIFO using Queue and Stack.
+
+Flow:
+- Enqueue characters into queue
+- Push characters into stack
+- Compare dequeue and pop results
+- Display result
+
+Concepts Used:
+- Queue (FIFO)
+- Stack (LIFO)
+- enqueue & dequeue
+- push & pop
+- Logical comparison
 
 

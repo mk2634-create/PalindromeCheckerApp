@@ -88,4 +88,22 @@ Concepts Used:
 - Front & Rear access
 - Optimized data handling
 
+## Use Case 8: Linked List Based Palindrome Check
+
+Goal:
+Check palindrome using singly linked list.
+
+Flow:
+- Convert string to linked list
+- Reverse second half
+- Compare halves
+- Display result
+
+Concepts Used:
+- Singly Linked List
+- Node traversal
+- Fast & Slow pointer technique
+- In-place reversal
+
+
 

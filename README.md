@@ -39,3 +39,20 @@ Concepts Used:
 - Two-pointer technique
 - Efficient comparison without extra string objects
 
+## Use Case 5: Stack-Based Palindrome Checker
+
+Goal:
+Use stack to reverse characters and validate palindrome.
+
+Flow:
+- Push characters into stack
+- Pop characters in reverse order
+- Compare with original string
+- Display result
+
+Concepts Used:
+- Stack (LIFO)
+- push() and pop()
+- Reversal using stack
+
+

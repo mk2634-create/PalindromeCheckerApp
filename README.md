@@ -1,3 +1,18 @@
+## Use Case 1: Welcome One
+
+Displayed a welcome banner in the console
+
+Optionally showed the first basic palindrome check
+
+Guided user to next steps in the app
+
+Concepts Used:
+
+Console output (System.out.println)
+
+Basic string display
+
+Program structure and flow
 
 ## Use Case 2: Hardcoded Palindrome Check
 
@@ -135,6 +150,27 @@ Concepts Used:
 - Regular expressions
 - Two-pointer comparison
 
+## Use Case 11: Object-Oriented Palindrome Service
+
+- Created PalindromeChecker class
+
+- Exposed checkPalindrome() method
+
+- Normalized input string
+
+- Compared characters using internal logic
+
+- printed result showing whether input is a palindrome
+
+- Concepts Used:
+
+- Encapsulation
+
+- Single Responsibility Principle
+
+- ternal data handling (Stack / Array)
+
+
 ## Use Case 12: Strategy Pattern for Palindrome Algorithms
 
 Goal:
@@ -151,6 +187,21 @@ Concepts Used:
 - Polymorphism
 - Strategy Pattern
 - Runtime behavior switching
+
+## Use Case 13: Performance Comparison
+
+Goal:
+Compare the execution performance of different palindrome algorithms.
+
+Flow:
+- Run multiple algorithms: Stack, Deque, Two-Pointer
+- Capture execution time using System.nanoTime()
+- Display results for each
+
+Concepts Used:
+- System.nanoTime()
+- Algorithm comparison
+- Stack, Deque, Array
 
 
 
